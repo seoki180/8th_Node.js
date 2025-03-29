@@ -1,3 +1,5 @@
+<https://velog.io/@seoki180/UMC-SQL-쿼리-정리>
+
 - **미션 기록**
 
     ![UMC_WEEK1.png](attachment:4db35583-339d-4688-833a-4078a8f23e60:UMC_WEEK1.png)
