@@ -1,3 +1,6 @@
+시니어챌린지 블로그 링크
+<https://velog.io/@seoki180/UMC-API-%EC%84%A4%EA%B3%84>
+
 ![초기구상](attachment:c8a6a22a-9841-4f75-8487-4a029af3f2e2:image.png)
 
 초기구상
