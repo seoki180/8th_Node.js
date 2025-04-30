@@ -1,3 +1,5 @@
+# <https://github.com/seoki180/UMC_Node_Practice.git>
+
 1. 특정 지역에 가게 추가하기 API
     - POST /store
     - 필요한 정보
